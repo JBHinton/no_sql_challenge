@@ -1,5 +1,5 @@
 # no_sql_challenge
-In this challenge I evaluated restauruant ratings acroos the UK.
+In this challenge I evaluated restauruant ratings across the UK.
 
 Part 1
  First I imported the json data file to mongoDB using my command line.
